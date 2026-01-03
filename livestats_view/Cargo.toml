@@ -1,0 +1,7 @@
+[package]
+name = "livestats_view"
+version = "2.1.4"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.42"

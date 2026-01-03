@@ -1,0 +1,6 @@
+[package]
+name = "collectl2diskstats-rhel7"
+version = "2.1.3"
+edition = "2024"
+
+[dependencies]
