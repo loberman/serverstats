@@ -11,7 +11,7 @@ use std::collections::HashMap;
 use chrono::Local;
 
 // Increment as tol evolves
-const VERSION_NUMBER: &str = "2.1.4";
+const VERSION_NUMBER: &str = "2.1.3";
 
 // ======= DISK =======
 #[derive(Debug, Clone)]
